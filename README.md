@@ -60,7 +60,5 @@ Based on these findings, it is advisable for Maven Airlines to focus on improvin
 
 [View Live Dashboard](https://link-to-your-live-dashboard.com)
 
-## Contact
-
 For further information or queries, feel free to reach out 
 Thank you for reviewing this project!
