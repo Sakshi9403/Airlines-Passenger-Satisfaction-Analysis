@@ -62,6 +62,6 @@ Based on these findings, it is advisable for Maven Airlines to focus on improvin
 
 ## Contact
 
-For further information or queries, feel free to reach out via [email@example.com](sakshithakare554@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/sakshi-thakare9404).
+For further information or queries, feel free to reach out via [email](sakshithakare554@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/sakshi-thakare9404).
 
 Thank you for reviewing this project!
