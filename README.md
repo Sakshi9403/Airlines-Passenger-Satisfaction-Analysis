@@ -56,7 +56,7 @@ Based on these findings, it is advisable for Maven Airlines to focus on improvin
 
 ## Dashboard
 
-![Dashboard Image](path/to/your/dashboard-image.png)
+![Dashboard Image](Passenger_Satisfaction.png)
 
 [View Live Dashboard](https://link-to-your-live-dashboard.com)
 
